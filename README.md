@@ -5,7 +5,7 @@
 
 Suite du Projet 7 (scoring crédit), ce projet développe :
 1. Un **dashboard interactif** pour les chargés de relation client
-2. Une **veille technique** sur l'explicabilité des modèles (XAI)
+2. Une **veille technique** sur l'explicabilité des modèles 
 
 ## 🎯 Contexte métier
 
@@ -19,10 +19,10 @@ Projet_8_Dashboard/
 ├── dashboard/
 │   └── app.py              # Dashboard Streamlit (5 pages)
 ├── notebooks/
-│   └── 02_Veille_XAI_SHAP_LIME.ipynb  # Veille technique
+│   └── notebook 1  # Veille technique
 ├── reports/
 │   └── evidently_full_report.html      # Rapport drift
-├── note_methodologique.md  # Note technique XAI
+├── note_methodologique.md  
 └── README.md
 ```
 
@@ -33,7 +33,7 @@ Projet_8_Dashboard/
 | 🎯 Scoring Client | Jauge de score + décision + explication SHAP |
 | 📊 Comparaison | Client vs population (histogrammes, percentiles) |
 | 📉 Data Drift | Rapport Evidently interactif |
-| 🔬 Veille XAI | Comparaison SHAP vs LIME |
+| 🔬 Veille  
 | 📚 Documentation | Guide d'utilisation |
 
 ## ♿ Accessibilité WCAG
